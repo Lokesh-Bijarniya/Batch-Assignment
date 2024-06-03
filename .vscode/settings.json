@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "Branch",
+    "id": "665b0d1378c101a17eb189d1",
+    "framework": "react-nextjs",
+    "typescript": false,
+    "styling": "Tailwind",
+    "unit": "px",
+    "naming": "Pascal Case",
+    "path": "public/",
+    "componentsPath": "/Users/lokeshbijarniya/Downloads/Batch_System/src/components",
+    "screensPath": "/Users/lokeshbijarniya/Downloads/Batch_System/src/pages"
+  }
+}
